@@ -1,0 +1,10 @@
+# Exclude properties files
+/properties/*
+!/properties/.gitkeep
+
+# Exclude OS X folder attributes
+.DS_Store
+
+# Node modules
+node_modules
+*.zip

@@ -1,0 +1,21 @@
+{
+  "name": "cyber-properties-management",
+  "description": "cyber properties management",
+  "private": true,
+  "scripts": {
+    "build": "echo 'build'",
+    "start": "node server.js"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect": "^3.6.6",
+    "cors": "latest",
+    "express": "latest",
+    "http-auth": "latest",
+    "js-yaml": "^3.11.0",
+    "uuid": "latest",
+    "deasync":"latest"
+  },
+  "main": "quote"
+}
